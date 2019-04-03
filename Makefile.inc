@@ -108,6 +108,6 @@ ARFLAGS =
 RANLIB= ranlib
 RM = rm -f
 ECHO = echo
-SHELL = /bin/sh
+SHELL = sh
 
 .SILENT :
